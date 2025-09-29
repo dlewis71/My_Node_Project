@@ -1,6 +1,12 @@
 {
   "name": "my-node-project",
   "version": "1.0.0",
-  "author": "Derrick Lewis"
-
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick Lewis",
+  "license": "ISC",
+  "description": ""
 }
+
